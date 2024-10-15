@@ -32,7 +32,7 @@ echo "Jumlah pembayaran: Rp" . number_format($jumlahPembayaran) . "<br>";
 echo "Diskon: " . ($diskon * 100) . "%<br>";
 echo "Total pembayaran setelah diskon: Rp" . number_format($totalBayar);
 
-echo "<br>";
+echo "<br><br>";
 
 // Soal a) Menggunakan while
 echo "Soal a) Menggunakan while:<br>";
