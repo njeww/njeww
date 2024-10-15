@@ -1,3 +1,11 @@
+KELOMPOK 5
+Nurahmatika
+Nurul hidayati
+Lara pebria
+Desmilda 
+Alan kurniawan
+Ahmad yusuf
+
 <?php
 function hitungDiskon($jumlahBayar) {
     // Periksa kondisi untuk mendapatkan diskon
